@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/karankumar07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karankumar07/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/karankumar07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/karankumar07/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@thekarankumar/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@thekarankumar/videos" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/k_kumar08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/k_kumar08" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/karan0708/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/karan0708/" height="30" width="40" /></a>
