@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React, JS, DSA, JAVA**
+- 💬 Ask me about **React, JavaScript (JS), TypeScript, Docker, NodeJs, JAVA, DSA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
